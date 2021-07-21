@@ -5,3 +5,5 @@ do
 done
 
 echo "localy changed"
+echo "Remotly chnaged"
+
